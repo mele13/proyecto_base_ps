@@ -1,5 +1,5 @@
 # proyecto_base_ps
-Basic project: 
+Base project: 
 - Frontend: Angular
 - Backend: Laravel
 - Web Server: Nginx
